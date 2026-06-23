@@ -11,6 +11,10 @@ GNU nano 9.1 is the first point release to the GNU nano 9.0 series, which introd
 
 GNU nano 9.0 also introduced support for canceling a recording when stopping the recording of a macro immediately after starting it, leaving an existing macro in place, as well as the ability to click in the scrollbar area to roughly navigate within the buffer by using `--mouse` and `--indicator`.
 
+For more details about the changes included in the latest GNU nano releases, check out the [release notes](https://www.nano-editor.org/news.php). Meanwhile, you can download GNU nano 9.1 right now from the [official website](https://www.nano-editor.org/download.php) as a source tarball if you fancy compiling software from sources.
+
+If that’s not your cup of tea, you will have to wait for the new GNU nano release to land in the stable software repositories of your favorite GNU/Linux distribution to update and enjoy the improvements.
+
 
 
 
